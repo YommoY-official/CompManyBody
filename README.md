@@ -14,7 +14,7 @@ You can choose one option below:
 1. Download ancaonda from <https://www.anaconda.com/download>
 2. Download miniconda from <https://docs.conda.io/en/latest/miniconda.html> and install necessary packages with
 ```
-conda install numpy scipy matplotlib numba
+conda install numpy scipy matplotlib numba jupyterlab
 ```
 3. Google colab <https://colab.research.google.com/> from web brower without
    any installation
