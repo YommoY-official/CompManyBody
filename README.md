@@ -38,7 +38,7 @@ jupyter lab
 ## Git 
 
 - open a terminal
-- Get a local copy of the remote repoistory with `git clone https://gitlab.lrz.de/cmt-computational-physics/tutorials_2025.git`
+- Get a local copy of the remote repoistory with `git clone https://gitlab.lrz.de/cmt-computational-physics/tutorials_2026.git`
   Alternatively, initialize a new repository in an exisiting folder with `git init`.
 - write code and modify local files
 - `git status` shows which files have been changed.
